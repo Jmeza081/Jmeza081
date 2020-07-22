@@ -30,4 +30,4 @@
 ## Socials
 
 - [LinkedIn](https://www.linkedin.com/in/jesse-meza/)
-- [Dribble](https://dribbble.com/Jmeza081)
+- [Dribbble](https://dribbble.com/Jmeza081)
