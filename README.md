@@ -29,5 +29,5 @@
 
 ## Socials
 
-- [Linked In](https://www.linkedin.com/in/jesse-meza/)
+- [LinkedIn](https://www.linkedin.com/in/jesse-meza/)
 - [Dribble](https://dribbble.com/Jmeza081)
