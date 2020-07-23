@@ -1,4 +1,4 @@
-![https://dribbble.com/jmeza081](https://res.cloudinary.com/znth/image/upload/v1595435848/Banner_Copy_vnijoe.png)
+![https://dribbble.com/jmeza081](https://res.cloudinary.com/znth/image/upload/v1595465692/Find_me_on_dribbble_o4ng6b.png)
 
 ## Quick facts
 
