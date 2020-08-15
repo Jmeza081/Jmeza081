@@ -8,7 +8,7 @@
 
 💻 React, React-native, JavaScript, TypeScript, Material UI, Vercel
 
-🏷 `UI Design`, `Responsive Web Development`, `Mobile Development`, `Sketch`, `Zeplin`, `React`, `JavaScript`, `Next`, `Vercel`
+🏷 `UI Design`, `Responsive Web Development`, `Mobile Development`, `💎 Sketch`, `Adobe XD`, `Zeplin`, `React`, `JavaScript`, `Next`, `Vercel`
 
 ## Personal projects
 
