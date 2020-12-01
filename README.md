@@ -1,4 +1,6 @@
-[![https://dribbble.com/jmeza081](https://res.cloudinary.com/znth/image/upload/v1595465692/Find_me_on_dribbble_o4ng6b.png)](https://dribbble.com/jmeza081)
+[![https://dribbble.com/jmeza081](https://res.cloudinary.com/znth/image/upload/v1606840268/Socail_Banner_ogsqez.png)](https://dribbble.com/jmeza081)
+
+Click the Banner! ⤴
 
 ## Quick facts
 
