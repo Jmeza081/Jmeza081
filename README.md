@@ -1,6 +1,6 @@
-[![https://dribbble.com/jmeza081](https://res.cloudinary.com/znth/image/upload/v1606840268/Socail_Banner_ogsqez.png)](https://dribbble.com/jmeza081)
+![https://dribbble.com/jmeza081](https://res.cloudinary.com/znth/image/upload/v1620497344/Banner_i121kq.png)
 
-Click the Banner! ⤴
+Click the Banner to visit my 🏀 Dribbble profile! ⤴
 
 ## Quick facts
 
@@ -8,9 +8,10 @@ Click the Banner! ⤴
 
 💼 Front-end Engineer | UI designer
 
-💻 React, React-native, JavaScript, TypeScript, Material UI, Vercel
+💻 React, React-native, JavaScript, TypeScript, Material UI, Vercel, SCSS, JSS
 
-🏷 `UI Design`, `Responsive Web Development`, `Mobile Development`, `💎 Sketch`, `Adobe XD`, `Zeplin`, `React`, `JavaScript`, `Next`, `Vercel`
+🎨 Sketch 💎, Adobe XD, UI Design, Responsibe Web Design
+
 
 ## Personal projects
 
@@ -35,3 +36,4 @@ Click the Banner! ⤴
 
 - [LinkedIn](https://www.linkedin.com/in/jesse-meza/)
 - [Dribbble](https://dribbble.com/Jmeza081)
+- [Instagram](https://instagram/mezaround)
