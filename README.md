@@ -1,7 +1,5 @@
 ![https://dribbble.com/jmeza081](https://res.cloudinary.com/znth/image/upload/v1620497344/Banner_i121kq.png)
 
-Click the Banner to visit my 🏀 Dribbble profile! ⤴
-
 ## Quick facts
 
 📍 Chicago
