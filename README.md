@@ -8,7 +8,7 @@
 
 💻 React, React-native, JavaScript, TypeScript, Material UI, Vercel, SCSS, JSS
 
-🎨 Sketch 💎, Adobe XD, UI Design, Responsibe Web Design
+🎨 Sketch 💎, Adobe XD, UI Design, Responsive Web Design
 
 
 ## Personal projects
