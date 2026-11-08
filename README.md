@@ -1,5 +1,5 @@
 # 💫 About Me:
-📇 Software Engineering Manager<br>📍 Chicago, IL (Remote)<br>💬 Ask me about: Design Systems, Front-end Development, Cars & Rock Music<br>⚡️ Fun Fact about me: I am currently training for my first marathon race ever! 🏃🏽
+📇 Associate Director of Engineering At GrubHub — Merchant Experience<br>📍 Chicago, IL (Remote)<br>💬 Ask me about: Design Systems, Front-end Development, Cars & Rock Music<br>⚡️ Fun Fact about me: I am currently training for my first marathon race ever! 🏃🏽
 
 
 ## 🌐 Socials:
